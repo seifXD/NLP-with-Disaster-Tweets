@@ -48,5 +48,5 @@ The model achieved a high accuracy on the test set and ranked in the top 100 on 
 This project served as a hands-on application of NLP techniques in a real-world context, highlighting the capabilities of BERT for text classification. It allowed me to deepen my skills in data preprocessing, model fine-tuning, and evaluation while gaining insights into how language models can aid in disaster response by filtering relevant information from social media.
 
 ## Acknowledgments
-DestilBERT paper:  [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)    
+DestilBERT paper: [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)    
 
